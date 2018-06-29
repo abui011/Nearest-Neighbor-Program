@@ -7,6 +7,7 @@ public class NumberWizard : MonoBehaviour {
     int minnum = 1;
     int guess = 500;
 	// Use this for initialization
+	//test github
     void Start () {
         Debug.Log("Welcome to BUI's number wizard");
         Debug.Log("Please pick a number :) (inyourhead)");
